@@ -1,0 +1,2 @@
+indicator gapminder gdp_per_capita_ppp.xlsx	: https://www.gapminder.org/data/
+indicator life_expectancy_at_birth.xlsx		: https://www.gapminder.org/data/
